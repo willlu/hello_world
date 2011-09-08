@@ -10,7 +10,7 @@
 <%
 out.println("hello<br>");
 out.println("hello");
-out.println("OOOOK");
+out.println("OOOOK");out.println("OOOOK");
 %>
 
 
